@@ -17,3 +17,4 @@ Depedencies :
 - [Gin](https://github.com/gin-gonic/gin)
 - [Viper](https://github.com/spf13/viper)
 - [GORM](https://github.com/jinzhu/gorm)
+- [MongoDB](https://github.com/globalsign/mgo)
