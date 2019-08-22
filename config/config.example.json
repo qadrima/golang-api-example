@@ -1,0 +1,23 @@
+{
+    "mode": "development",
+    "server": {
+       "host": "0.0.0.0",
+       "port": 8080
+    },
+    "database":{
+        "mongodb":{
+            "host":"localhost",
+            "user": "myUserAdmin",
+            "password": "abc123",
+            "port": "27017",
+            "dbname": "xplorin_mongo"
+        },
+        "mysql":{
+            "host":"127.0.0.1",
+            "user": "root",
+            "password": "root",
+            "port": "8889",
+            "dbname": "xplorin"
+        }
+    }
+}
